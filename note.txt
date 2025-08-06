@@ -1,1 +1,4 @@
 rewriting content
+
+Learning the difference between the different states of a file in git
+
